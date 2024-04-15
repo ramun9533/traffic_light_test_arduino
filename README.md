@@ -1,4 +1,4 @@
-Aquí tienes un ejemplo de archivo README para tu código de semáforo en Arduino:
+
 
 ---
 
